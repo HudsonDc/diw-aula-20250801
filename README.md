@@ -2,8 +2,14 @@
 
 Comandos Do Git 
 
+```
 Git add .
+```
 
+```
 Git Commit -m "minha mensagem"
+```
 
+```
 Git Push
+```
